@@ -1,6 +1,6 @@
 # Mobioos Forge
 Welcome to the Github repository of the [Mobioos Forge extension](https://marketplace.visualstudio.com/items?itemName=Mobioos.mobioos-forge)!
-Here you will find a list of our [tutorials](#tutorials-📓) as well as some [useful links](#useful-links-🔗) for your <span style="color: #ff8001">Mobioos Forge</span> usage. If you face any issues while using <span style="color: #ff8001">Mobioos Forge</span>, you can create an [issue](https://github.com/Mobioos/Mobioos-Forge/issues) to let us know!
+Here you will find a list of our [tutorials](#tutorials-) as well as some [useful links](#useful-links-) for your <span style="color: #ff8001">Mobioos Forge</span> usage. If you face any issues while using <span style="color: #ff8001">Mobioos Forge</span>, you can create an [issue](https://github.com/Mobioos/Mobioos-Forge/issues) to let us know!
 
 # What is Mobioos Forge?
 <span style="color: #ff8001">Mobioos Forge</span> is a vscode extension that allows you to drive your software implementation projects by adding a **functional map view**. The created **bridge** between each **domain Feature** and its associated **code fragments** will enable you to master your application to target the following objectives:
