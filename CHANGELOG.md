@@ -104,4 +104,13 @@
 - Adjusting positions displayed in the Feature-Maps view.
 
 ## [[2.2.3]](https://github.com/Mobioos/Mobioos-Forge/releases/tag/v2.2.3)
-- Improving loading time of forge project
+- Improving loading time of Forge projects.
+
+## [[2.2.4]](https://github.com/Mobioos/Mobioos-Forge/releases/tag/v2.2.4)
+- Adding .mobioosignore functionality.
+- Fixing bug of extension sometimes not loading correctly at startup.
+- Improving maps tracking algorithm when editing code.
+- Adding CTRL+S hotkey to save the feature model in the designer.
+- Improving code tracking algorithm.
+- Adding possibility to add/remove several file-markers at once.
+- Not using markers files anymore (`~$PROJECT_NAME.functionalities.maps.forge` and `~$PROJECT_NAME.resources.maps.forge`)
