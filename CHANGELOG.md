@@ -114,3 +114,10 @@
 - Improving code tracking algorithm.
 - Adding possibility to add/remove several file-markers at once.
 - Not using markers files anymore (`~$PROJECT_NAME.functionalities.maps.forge` and `~$PROJECT_NAME.resources.maps.forge`)
+
+## [[2.2.5]](https://github.com/Mobioos/Mobioos-Forge/releases/tag/v2.2.4)
+- Improve collaborative works on Forge projects:
+  - Automatic merge of feature-maps & replacement libraries.
+  - Detection of conflicts between of feature-maps & replacement libraries.
+- Improve feature-map tracking algorithm.
+- Disabling lenses and code actions when the current document is not saved (improve performance and reliability of map-tracking algorithm as well as overall readability of the document).

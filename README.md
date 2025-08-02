@@ -44,3 +44,7 @@ We created several tutorials to help you get your hand on <span style="color: #f
 - [BankWeb](https://github.com/Mobioos/Forge-BankWeb): BankWeb is a simple web application that **emulates the behavior of a banking application**. This application is composed of a frontend in plain HTML/CSS/JS and a backend in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0).
   
   <img style="max-height: 600px; max-width: 600px;" src="https://mobioosstorageaccount.blob.core.windows.net/public-documentation/Forge-tutorials/BankWeb/images/execution.png">
+
+- [eShopOnContainers](https://github.com/Mobioos/Forge-eShopOnContainers): eshopOnContainers is an **open-source microservice-based application** developed by Microsoft. The application is a cross-platform .NET system with sample microservices. Microsoft has developed eShopOnContainers in order to show good design practices regarding the development and integration of .NET microservices in a web application.
+
+- [Magento](https://github.com/Mobioos/Forge-Magento): Magento is an **open-source e-commerce platform** written in PHP, consisting of approximately 3.6M LOCs. Its flexible architecture enables developers to create customized e-commerce solutions tailored to specific business needs.
